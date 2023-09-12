@@ -1,0 +1,31 @@
+/* 
+
+The one style sheet for Quotations 1
+
+Authors: Rick Mercer and Sadiba Nusrat Nur
+
+*/
+.container {
+	vertical-align: text-top;
+	border: 2px black solid;
+	border-radius: 7px;
+	padding: 5px;
+	margin: 5px;
+	font-size: 12pt;
+
+}
+
+.heading {
+	font-family: cursive;
+	text-align: center;
+}
+
+.addQuote {
+	vertical-align: text-top;
+	border: 2px black solid;
+	border-radius: 7px;
+	padding: 15px;
+	margin: 5px;
+	font-size: 12pt;
+
+}
